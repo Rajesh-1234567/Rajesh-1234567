@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar Jena</h1>
-<h3 align="center">A passionate Software developer, machine learning Engineer from India</h3>
+<h3 align="center">A passionate Machine learning Engineer, Data science Enthusiast from India</h3>
 <img style="display: block; margin: 0 auto;" align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-1234567&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-1234567" /> </p>
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rajeshkumarjena400](https://medium.com/@rajeshkumarjena400)
 
-- 💬 Ask me about **Software development, Java, Machine learning**
+- 💬 Ask me about **Machine learning, Deep Learning, Data science, GenAI, Software development **
 
 - 📫 How to reach me **https://www.linkedin.com/in/rajesh-kumar-jena-793257212/**
 
