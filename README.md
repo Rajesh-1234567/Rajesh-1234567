@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-1234567&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-1234567" /> </p>
 
+<!-- Add Holopin badge here -->
 [![An image of @rajesh1234567's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh1234567)](https://holopin.io/@rajesh1234567)
 
 <p align="left"> <a href="https://twitter.com/@rajeshkumar2255" target="blank"><img src="https://img.shields.io/twitter/follow/@rajeshkumar2255?logo=twitter&style=for-the-badge" alt="@rajeshkumar2255" /></a> </p>
@@ -85,4 +86,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon
+        <img src="https://raw.githubusercontent.com/dev
