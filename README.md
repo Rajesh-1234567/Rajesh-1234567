@@ -4,16 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-1234567&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-1234567" /> </p>
 
+[![An image of @rajesh1234567's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajesh1234567)](https://holopin.io/@rajesh1234567)
+
 <p align="left"> <a href="https://twitter.com/@rajeshkumar2255" target="blank"><img src="https://img.shields.io/twitter/follow/@rajeshkumar2255?logo=twitter&style=for-the-badge" alt="@rajeshkumar2255" /></a> </p>
 
-- 🌱 I’m currently learning **Software development,Frameworks, Machine learning and Data science, GenAI.**
+- 🌱 I’m currently learning **Software development, Frameworks, Machine learning and Data science, GenAI.**
 
 - 📝 I regularly write articles on [https://medium.com/@rajeshkumarjena400](https://medium.com/@rajeshkumarjena400)
 
-- 💬 Ask me about **Machine learning, Deep Learning, Data science, GenAI, Software development **
+- 💬 Ask me about **Machine learning, Deep Learning, Data science, GenAI, Software development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rajesh-kumar-jena-793257212/**
-
 
 - ⚡ Fun fact **"🤖💬 Coding ninja by day, stand-up comedian by night. I debug code and crack jokes with equal finesse. #FunnyCoderNinja"**
 
@@ -84,16 +85,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1234567&show_icons=true&locale=en&layout=compact" alt="rajesh-1234567" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1234567&" alt="rajesh-1234567" /></p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon
